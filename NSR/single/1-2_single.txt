@@ -1,0 +1,48 @@
+
+
+Cluster 6
+14989
+s140	0.09313496564147042
+sentis	-0.15417973180332242
+textblob	0.33964907598905864
+vader	0.14690773233704718
+
+
+Cluster 1
+153
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 3
+107
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 5
+68
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 4
+94
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 2
+143
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0

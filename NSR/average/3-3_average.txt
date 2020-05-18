@@ -1,0 +1,80 @@
+
+
+Cluster 10
+14128
+s140	0.0694365798414496
+sentis	-0.13441392978482447
+textblob	0.3595696489241223
+vader	0.182757644394111
+
+
+Cluster 7
+65
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 1
+111
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 6
+66
+s140	-1.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 3
+36
+s140	0.1388888888888889
+sentis	0.027777777777777776
+textblob	0.5
+vader	0.3333333333333333
+
+
+Cluster 9
+62
+s140	-0.7258064516129032
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 5
+66
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 2
+72
+s140	0.08333333333333333
+sentis	-0.19444444444444445
+textblob	0.375
+vader	0.1388888888888889
+
+
+Cluster 4
+67
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 8
+39
+s140	-0.05128205128205128
+sentis	-0.05128205128205128
+textblob	0.2564102564102564
+vader	-0.07692307692307693

@@ -1,0 +1,5432 @@
+
+
+Cluster 234
+5
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 494
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 39
+5
+s140	0.8
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 547
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 27
+12
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 593
+924
+s140	0.09632034632034632
+sentis	-0.08333333333333333
+textblob	0.27705627705627706
+vader	0.13636363636363635
+
+
+Cluster 194
+2
+s140	0.0
+sentis	-0.5
+textblob	1.0
+vader	0.0
+
+
+Cluster 28
+15
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 48
+25
+s140	0.04
+sentis	-0.32
+textblob	0.04
+vader	-0.28
+
+
+Cluster 161
+6
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 408
+5
+s140	0.0
+sentis	-0.4
+textblob	0.4
+vader	0.0
+
+
+Cluster 313
+4
+s140	-0.25
+sentis	-0.5
+textblob	0.5
+vader	0.25
+
+
+Cluster 145
+11
+s140	0.0
+sentis	-0.45454545454545453
+textblob	0.0
+vader	-0.09090909090909091
+
+
+Cluster 35
+9
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 655
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 168
+7
+s140	-0.14285714285714285
+sentis	-0.7142857142857143
+textblob	0.7142857142857143
+vader	0.14285714285714285
+
+
+Cluster 342
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 308
+2
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 119
+13
+s140	0.23076923076923078
+sentis	-0.3076923076923077
+textblob	0.6923076923076923
+vader	0.6153846153846154
+
+
+Cluster 459
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 411
+5
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 111
+5
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 224
+4
+s140	-0.25
+sentis	0.25
+textblob	0.25
+vader	0.5
+
+
+Cluster 187
+7
+s140	0.0
+sentis	-0.8571428571428571
+textblob	0.2857142857142857
+vader	-0.14285714285714285
+
+
+Cluster 270
+5
+s140	0.4
+sentis	-1.0
+textblob	0.8
+vader	1.0
+
+
+Cluster 260
+3
+s140	-0.3333333333333333
+sentis	-1.0
+textblob	0.3333333333333333
+vader	-1.0
+
+
+Cluster 258
+4
+s140	0.0
+sentis	-1.0
+textblob	0.25
+vader	-0.25
+
+
+Cluster 93
+15
+s140	0.0
+sentis	0.13333333333333333
+textblob	0.06666666666666667
+vader	0.26666666666666666
+
+
+Cluster 16
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 236
+6
+s140	-0.16666666666666666
+sentis	-0.16666666666666666
+textblob	0.6666666666666666
+vader	-0.16666666666666666
+
+
+Cluster 589
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 74
+7
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 30
+51
+s140	0.11764705882352941
+sentis	-0.29411764705882354
+textblob	0.4117647058823529
+vader	0.09803921568627451
+
+
+Cluster 238
+1
+s140	-1.0
+sentis	1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 351
+2
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 147
+12
+s140	0.3333333333333333
+sentis	0.16666666666666666
+textblob	0.6666666666666666
+vader	0.3333333333333333
+
+
+Cluster 215
+9
+s140	-0.2222222222222222
+sentis	-0.3333333333333333
+textblob	0.1111111111111111
+vader	0.2222222222222222
+
+
+Cluster 233
+4
+s140	-0.5
+sentis	-0.75
+textblob	0.5
+vader	-0.5
+
+
+Cluster 496
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 125
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 429
+2
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 323
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 261
+5
+s140	0.2
+sentis	0.0
+textblob	0.6
+vader	0.4
+
+
+Cluster 134
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 353
+5
+s140	0.0
+sentis	-0.2
+textblob	0.8
+vader	-0.4
+
+
+Cluster 31
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 106
+3
+s140	0.3333333333333333
+sentis	-1.0
+textblob	0.3333333333333333
+vader	0.3333333333333333
+
+
+Cluster 285
+2
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 280
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 611
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 662
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 1
+15
+s140	-0.8666666666666667
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 114
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 379
+2
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 541
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 326
+4
+s140	0.0
+sentis	0.75
+textblob	1.0
+vader	1.0
+
+
+Cluster 338
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 133
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 164
+6
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 17
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 29
+11
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 76
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 37
+9
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 153
+6
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 118
+2
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 172
+7
+s140	0.0
+sentis	0.0
+textblob	0.42857142857142855
+vader	0.0
+
+
+Cluster 56
+8
+s140	0.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 85
+6
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 201
+5
+s140	0.0
+sentis	-0.2
+textblob	0.0
+vader	0.0
+
+
+Cluster 3
+15
+s140	-1.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 453
+3
+s140	0.0
+sentis	-1.0
+textblob	-0.3333333333333333
+vader	-1.0
+
+
+Cluster 183
+5
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 298
+1
+s140	1.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 78
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 374
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 127
+3
+s140	0.3333333333333333
+sentis	-0.6666666666666666
+textblob	1.0
+vader	1.0
+
+
+Cluster 403
+2
+s140	0.0
+sentis	0.0
+textblob	0.5
+vader	0.0
+
+
+Cluster 242
+6
+s140	0.16666666666666666
+sentis	0.16666666666666666
+textblob	1.0
+vader	0.3333333333333333
+
+
+Cluster 40
+5
+s140	0.0
+sentis	-0.4
+textblob	0.6
+vader	0.6
+
+
+Cluster 456
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 113
+7
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 666
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 47
+7
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 178
+2
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 415
+3
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 180
+6
+s140	0.16666666666666666
+sentis	0.0
+textblob	0.8333333333333334
+vader	0.6666666666666666
+
+
+Cluster 654
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 433
+3
+s140	0.0
+sentis	0.3333333333333333
+textblob	0.6666666666666666
+vader	0.3333333333333333
+
+
+Cluster 154
+5
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 75
+7
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 631
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 32
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 359
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 428
+2
+s140	0.0
+sentis	-0.5
+textblob	0.0
+vader	0.0
+
+
+Cluster 389
+3
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 196
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 8
+27
+s140	0.18518518518518517
+sentis	0.037037037037037035
+textblob	0.2222222222222222
+vader	0.2222222222222222
+
+
+Cluster 68
+3
+s140	0.3333333333333333
+sentis	-0.3333333333333333
+textblob	-0.3333333333333333
+vader	-0.3333333333333333
+
+
+Cluster 86
+2
+s140	0.5
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 46
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 195
+6
+s140	0.16666666666666666
+sentis	0.5
+textblob	0.16666666666666666
+vader	0.5
+
+
+Cluster 458
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 115
+2
+s140	0.0
+sentis	-0.5
+textblob	0.0
+vader	0.0
+
+
+Cluster 269
+3
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 204
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 231
+4
+s140	-0.25
+sentis	0.0
+textblob	0.5
+vader	0.75
+
+
+Cluster 24
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 506
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 412
+2
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 2
+22
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 38
+10
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 529
+4
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 384
+2
+s140	1.0
+sentis	0.5
+textblob	0.5
+vader	0.0
+
+
+Cluster 556
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 320
+5
+s140	0.0
+sentis	-0.4
+textblob	0.2
+vader	-0.4
+
+
+Cluster 484
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 345
+5
+s140	0.6
+sentis	0.2
+textblob	1.0
+vader	0.2
+
+
+Cluster 279
+6
+s140	0.5
+sentis	0.0
+textblob	0.16666666666666666
+vader	0.5
+
+
+Cluster 36
+9
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 191
+2
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 289
+9
+s140	0.5555555555555556
+sentis	-0.1111111111111111
+textblob	0.6666666666666666
+vader	0.2222222222222222
+
+
+Cluster 528
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 518
+2
+s140	0.0
+sentis	-0.5
+textblob	0.0
+vader	0.0
+
+
+Cluster 216
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 166
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 352
+4
+s140	0.0
+sentis	0.75
+textblob	1.0
+vader	1.0
+
+
+Cluster 463
+3
+s140	0.0
+sentis	-1.0
+textblob	-0.6666666666666666
+vader	-0.3333333333333333
+
+
+Cluster 246
+6
+s140	0.5
+sentis	0.3333333333333333
+textblob	1.0
+vader	0.6666666666666666
+
+
+Cluster 651
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 225
+7
+s140	0.0
+sentis	-0.14285714285714285
+textblob	0.8571428571428571
+vader	0.5714285714285714
+
+
+Cluster 478
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 510
+2
+s140	-0.5
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 385
+2
+s140	-1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 277
+5
+s140	0.6
+sentis	0.6
+textblob	0.6
+vader	0.6
+
+
+Cluster 402
+1
+s140	0.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 340
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 573
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 390
+2
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 328
+1
+s140	1.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 77
+18
+s140	0.2777777777777778
+sentis	-0.8333333333333334
+textblob	0.4444444444444444
+vader	-0.4444444444444444
+
+
+Cluster 448
+4
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.5
+
+
+Cluster 228
+6
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 381
+2
+s140	0.5
+sentis	-0.5
+textblob	1.0
+vader	0.5
+
+
+Cluster 10
+2
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 81
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 226
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 315
+4
+s140	0.0
+sentis	0.25
+textblob	0.75
+vader	0.25
+
+
+Cluster 439
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 176
+2
+s140	-1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 306
+3
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	-0.3333333333333333
+
+
+Cluster 207
+6
+s140	0.16666666666666666
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 638
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 451
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 325
+2
+s140	-0.5
+sentis	-1.0
+textblob	-0.5
+vader	-1.0
+
+
+Cluster 605
+1
+s140	-1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 388
+3
+s140	0.0
+sentis	-1.0
+textblob	0.3333333333333333
+vader	0.0
+
+
+Cluster 296
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 425
+3
+s140	0.3333333333333333
+sentis	-1.0
+textblob	1.0
+vader	-0.3333333333333333
+
+
+Cluster 393
+4
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 307
+6
+s140	0.16666666666666666
+sentis	0.16666666666666666
+textblob	0.3333333333333333
+vader	0.3333333333333333
+
+
+Cluster 637
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 382
+2
+s140	0.0
+sentis	0.5
+textblob	0.0
+vader	0.5
+
+
+Cluster 414
+4
+s140	-0.25
+sentis	-0.5
+textblob	0.5
+vader	-1.0
+
+
+Cluster 491
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 498
+4
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 427
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 61
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 160
+6
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 594
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 163
+5
+s140	-0.8
+sentis	-0.8
+textblob	1.0
+vader	-0.6
+
+
+Cluster 149
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 186
+2
+s140	0.0
+sentis	0.5
+textblob	0.0
+vader	0.0
+
+
+Cluster 73
+7
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 568
+3
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 674
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 55
+7
+s140	0.0
+sentis	0.7142857142857143
+textblob	0.5714285714285714
+vader	1.0
+
+
+Cluster 422
+3
+s140	0.6666666666666666
+sentis	0.0
+textblob	0.6666666666666666
+vader	0.3333333333333333
+
+
+Cluster 375
+3
+s140	0.0
+sentis	-0.6666666666666666
+textblob	0.3333333333333333
+vader	0.3333333333333333
+
+
+Cluster 314
+2
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 155
+5
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 49
+2
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 441
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 464
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 197
+5
+s140	0.2
+sentis	-0.6
+textblob	0.4
+vader	0.2
+
+
+Cluster 156
+4
+s140	0.5
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 487
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 358
+3
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 219
+1
+s140	-1.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 380
+6
+s140	0.0
+sentis	-0.5
+textblob	0.5
+vader	-0.6666666666666666
+
+
+Cluster 472
+4
+s140	0.0
+sentis	-1.0
+textblob	-0.5
+vader	-0.75
+
+
+Cluster 668
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 536
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 612
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 202
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 467
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 218
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 620
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 331
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 281
+2
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 241
+2
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 312
+5
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 299
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 677
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 419
+3
+s140	0.3333333333333333
+sentis	0.0
+textblob	-0.3333333333333333
+vader	0.6666666666666666
+
+
+Cluster 309
+3
+s140	0.6666666666666666
+sentis	-0.3333333333333333
+textblob	0.3333333333333333
+vader	0.3333333333333333
+
+
+Cluster 581
+2
+s140	0.0
+sentis	0.5
+textblob	1.0
+vader	1.0
+
+
+Cluster 644
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 324
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 394
+4
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 443
+4
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 579
+2
+s140	-0.5
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 25
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 413
+2
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 71
+3
+s140	0.0
+sentis	-0.6666666666666666
+textblob	0.3333333333333333
+vader	-0.3333333333333333
+
+
+Cluster 462
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 477
+2
+s140	0.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 58
+15
+s140	0.06666666666666667
+sentis	-0.2
+textblob	0.13333333333333333
+vader	0.0
+
+
+Cluster 520
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 157
+6
+s140	0.5
+sentis	-0.16666666666666666
+textblob	0.6666666666666666
+vader	0.3333333333333333
+
+
+Cluster 283
+2
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 364
+2
+s140	-0.5
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 667
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 365
+3
+s140	0.3333333333333333
+sentis	-0.6666666666666666
+textblob	0.6666666666666666
+vader	-1.0
+
+
+Cluster 559
+3
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 152
+6
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 249
+2
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 174
+4
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 112
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 623
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 67
+2
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 179
+3
+s140	-1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 199
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 190
+4
+s140	-0.5
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 330
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 271
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 610
+1
+s140	-1.0
+sentis	0.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 148
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 557
+3
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 476
+2
+s140	0.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 319
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 43
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 387
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 661
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 348
+2
+s140	0.0
+sentis	0.5
+textblob	1.0
+vader	1.0
+
+
+Cluster 571
+1
+s140	1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 442
+2
+s140	1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 79
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 300
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 561
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 221
+2
+s140	1.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 537
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 230
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 259
+4
+s140	-0.25
+sentis	-0.75
+textblob	-0.25
+vader	0.25
+
+
+Cluster 84
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 377
+4
+s140	0.0
+sentis	0.5
+textblob	0.25
+vader	0.0
+
+
+Cluster 304
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 54
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 424
+2
+s140	-0.5
+sentis	-0.5
+textblob	-0.5
+vader	0.5
+
+
+Cluster 582
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 492
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 250
+4
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 628
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 665
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 376
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 23
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 26
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 18
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 256
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 268
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 4
+3
+s140	0.3333333333333333
+sentis	-0.3333333333333333
+textblob	0.0
+vader	-0.3333333333333333
+
+
+Cluster 440
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 14
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 616
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 512
+2
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 198
+2
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 465
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 33
+5
+s140	0.2
+sentis	0.0
+textblob	0.6
+vader	0.2
+
+
+Cluster 162
+5
+s140	0.2
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 532
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 473
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 678
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 410
+2
+s140	1.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 490
+2
+s140	0.0
+sentis	0.0
+textblob	0.5
+vader	1.0
+
+
+Cluster 189
+6
+s140	-1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 88
+2
+s140	0.0
+sentis	-1.0
+textblob	0.5
+vader	0.0
+
+
+Cluster 12
+2
+s140	0.5
+sentis	-0.5
+textblob	0.5
+vader	0.0
+
+
+Cluster 87
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 53
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 609
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 354
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 503
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 574
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.5
+
+
+Cluster 544
+1
+s140	1.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 248
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 104
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 209
+4
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 406
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 641
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 504
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 401
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 587
+1
+s140	-1.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 128
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 253
+6
+s140	0.0
+sentis	0.0
+textblob	0.8333333333333334
+vader	0.6666666666666666
+
+
+Cluster 159
+3
+s140	-0.3333333333333333
+sentis	0.3333333333333333
+textblob	0.6666666666666666
+vader	0.0
+
+
+Cluster 649
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 110
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 44
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 511
+1
+s140	-1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 530
+2
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 444
+3
+s140	-0.3333333333333333
+sentis	-0.6666666666666666
+textblob	0.3333333333333333
+vader	-0.3333333333333333
+
+
+Cluster 355
+4
+s140	0.0
+sentis	-0.75
+textblob	0.75
+vader	-1.0
+
+
+Cluster 640
+1
+s140	-1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 332
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 267
+2
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 591
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 505
+2
+s140	-1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 223
+10
+s140	-0.2
+sentis	-1.0
+textblob	-0.5
+vader	0.2
+
+
+Cluster 521
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 184
+4
+s140	0.0
+sentis	-0.25
+textblob	0.25
+vader	-0.25
+
+
+Cluster 391
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 452
+3
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 193
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 577
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 450
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 607
+1
+s140	1.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 70
+2
+s140	0.5
+sentis	0.5
+textblob	0.5
+vader	0.5
+
+
+Cluster 131
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 182
+4
+s140	0.0
+sentis	0.0
+textblob	0.25
+vader	-0.75
+
+
+Cluster 232
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 562
+2
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 317
+3
+s140	0.6666666666666666
+sentis	-0.3333333333333333
+textblob	0.0
+vader	0.0
+
+
+Cluster 613
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 13
+4
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 229
+3
+s140	0.0
+sentis	-1.0
+textblob	-0.3333333333333333
+vader	-1.0
+
+
+Cluster 6
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 286
+6
+s140	-0.5
+sentis	0.0
+textblob	0.3333333333333333
+vader	0.3333333333333333
+
+
+Cluster 656
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 608
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 560
+4
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 21
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 66
+4
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 519
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 212
+2
+s140	0.5
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 639
+3
+s140	-0.3333333333333333
+sentis	-1.0
+textblob	0.6666666666666666
+vader	-1.0
+
+
+Cluster 181
+4
+s140	1.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 445
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 578
+3
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 227
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 72
+3
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 454
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 483
+1
+s140	-1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 383
+4
+s140	0.0
+sentis	-0.5
+textblob	0.25
+vader	0.0
+
+
+Cluster 515
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 634
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 550
+2
+s140	0.5
+sentis	-0.5
+textblob	1.0
+vader	0.0
+
+
+Cluster 368
+2
+s140	-1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 293
+2
+s140	0.5
+sentis	0.5
+textblob	1.0
+vader	1.0
+
+
+Cluster 481
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 165
+3
+s140	0.0
+sentis	-0.6666666666666666
+textblob	0.3333333333333333
+vader	0.3333333333333333
+
+
+Cluster 657
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 151
+5
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 418
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 671
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 475
+2
+s140	-0.5
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 50
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 90
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 617
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 337
+2
+s140	0.5
+sentis	1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 170
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 542
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 94
+2
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 349
+3
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 404
+1
+s140	1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 167
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 177
+2
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 11
+3
+s140	0.3333333333333333
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 130
+2
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 262
+2
+s140	0.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 525
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 243
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 370
+2
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 523
+2
+s140	1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 386
+3
+s140	0.0
+sentis	-0.6666666666666666
+textblob	-1.0
+vader	-0.6666666666666666
+
+
+Cluster 213
+1
+s140	-1.0
+sentis	1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 240
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 565
+2
+s140	0.5
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 80
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 264
+4
+s140	-0.5
+sentis	1.0
+textblob	0.5
+vader	1.0
+
+
+Cluster 660
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 99
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 396
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 295
+4
+s140	0.0
+sentis	-0.25
+textblob	0.75
+vader	-0.5
+
+
+Cluster 392
+3
+s140	0.6666666666666666
+sentis	1.0
+textblob	-0.3333333333333333
+vader	1.0
+
+
+Cluster 210
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 535
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 618
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 217
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 266
+5
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 321
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 373
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 291
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 636
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 361
+2
+s140	0.0
+sentis	-1.0
+textblob	0.5
+vader	-1.0
+
+
+Cluster 19
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 436
+3
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 395
+4
+s140	0.0
+sentis	-0.25
+textblob	0.5
+vader	0.0
+
+
+Cluster 244
+2
+s140	0.0
+sentis	-0.5
+textblob	0.5
+vader	-0.5
+
+
+Cluster 603
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 146
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 278
+4
+s140	0.25
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 461
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 129
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 430
+2
+s140	1.0
+sentis	-0.5
+textblob	0.5
+vader	-0.5
+
+
+Cluster 142
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 341
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 595
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 584
+2
+s140	-0.5
+sentis	0.5
+textblob	1.0
+vader	1.0
+
+
+Cluster 237
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 245
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 59
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 109
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 621
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 251
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 558
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 301
+5
+s140	0.4
+sentis	0.6
+textblob	1.0
+vader	0.6
+
+
+Cluster 397
+5
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 336
+1
+s140	1.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 469
+2
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 563
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 599
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 471
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 5
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 474
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 522
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 575
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 235
+3
+s140	0.0
+sentis	-0.3333333333333333
+textblob	1.0
+vader	1.0
+
+
+Cluster 206
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 501
+3
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 185
+2
+s140	-1.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 9
+2
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 350
+2
+s140	0.5
+sentis	0.5
+textblob	0.5
+vader	1.0
+
+
+Cluster 630
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 82
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 275
+4
+s140	-0.25
+sentis	0.0
+textblob	0.5
+vader	0.0
+
+
+Cluster 643
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 263
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 63
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 102
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 552
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 405
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 507
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 650
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 139
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 495
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 150
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 633
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 91
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 362
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 369
+2
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 346
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 83
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 482
+4
+s140	-0.75
+sentis	-0.75
+textblob	-0.5
+vader	-1.0
+
+
+Cluster 41
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 57
+2
+s140	0.0
+sentis	-0.5
+textblob	0.5
+vader	0.0
+
+
+Cluster 100
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 175
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 531
+3
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 297
+2
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 449
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 455
+3
+s140	-0.3333333333333333
+sentis	-0.3333333333333333
+textblob	0.3333333333333333
+vader	-0.3333333333333333
+
+
+Cluster 538
+1
+s140	1.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 101
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 64
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 619
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 310
+3
+s140	-0.3333333333333333
+sentis	-1.0
+textblob	0.3333333333333333
+vader	-1.0
+
+
+Cluster 502
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 247
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 466
+4
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 211
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 663
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 585
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 311
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 468
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 489
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 572
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 294
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 569
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 69
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 548
+2
+s140	0.0
+sentis	0.5
+textblob	1.0
+vader	0.5
+
+
+Cluster 509
+2
+s140	0.0
+sentis	0.5
+textblob	1.0
+vader	1.0
+
+
+Cluster 508
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 255
+1
+s140	0.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 220
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 329
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 22
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 136
+1
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 284
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 203
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 96
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 200
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 416
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 265
+3
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 103
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 606
+1
+s140	-1.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 360
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 92
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 629
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 676
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 647
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 252
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 479
+2
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 434
+1
+s140	-1.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 551
+2
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 367
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 653
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 214
+2
+s140	1.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 517
+2
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 553
+1
+s140	-1.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 567
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 652
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 545
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 457
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 534
+3
+s140	-0.3333333333333333
+sentis	0.0
+textblob	0.6666666666666666
+vader	0.6666666666666666
+
+
+Cluster 124
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 302
+1
+s140	1.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 108
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 564
+3
+s140	-1.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 371
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 423
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 527
+2
+s140	0.5
+sentis	-0.5
+textblob	0.5
+vader	0.5
+
+
+Cluster 333
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 549
+2
+s140	-0.5
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 121
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 95
+2
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 399
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 138
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 192
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 141
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 276
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 486
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 497
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 105
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 614
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 334
+1
+s140	1.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 421
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 305
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 513
+1
+s140	-1.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 288
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 20
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 62
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 303
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 622
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 626
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 15
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 290
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 417
+1
+s140	0.0
+sentis	1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 356
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 533
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 592
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 327
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 659
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 470
+2
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 670
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 137
+1
+s140	1.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 65
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 409
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 437
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 140
+1
+s140	-1.0
+sentis	0.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 89
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 357
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 543
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 673
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 188
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 602
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 596
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 51
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 499
+2
+s140	0.5
+sentis	0.0
+textblob	0.5
+vader	0.0
+
+
+Cluster 282
+3
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 171
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 122
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 615
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 514
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 426
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 339
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 526
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 45
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 635
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 272
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 169
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 446
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 632
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 257
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 42
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 378
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 363
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 287
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 347
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 158
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 292
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 144
+4
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 274
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 398
+3
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 117
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 580
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 205
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 516
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 664
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 447
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 485
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 372
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 107
+2
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 480
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 576
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 431
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 583
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 488
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 335
+1
+s140	1.0
+sentis	0.0
+textblob	0.0
+vader	-1.0
+
+
+Cluster 98
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 222
+4
+s140	0.0
+sentis	-1.0
+textblob	-0.5
+vader	-0.75
+
+
+Cluster 566
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 273
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 658
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 135
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 400
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 239
+1
+s140	-1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 60
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 322
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	0.0
+
+
+Cluster 648
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 126
+2
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 625
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 343
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 316
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 435
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 600
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 570
+1
+s140	-1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 500
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 590
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 679
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 438
+2
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 675
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 318
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 34
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 555
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 460
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 524
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 123
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 7
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 646
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 116
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 554
+2
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 539
+1
+s140	1.0
+sentis	1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 588
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 540
+1
+s140	1.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 173
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 432
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 597
+1
+s140	1.0
+sentis	0.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 586
+1
+s140	0.0
+sentis	1.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 208
+1
+s140	-1.0
+sentis	1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 120
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 420
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 366
+1
+s140	1.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 645
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	0.0
+
+
+Cluster 52
+1
+s140	0.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 642
+1
+s140	-1.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 254
+1
+s140	1.0
+sentis	1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 624
+1
+s140	-1.0
+sentis	0.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 344
+2
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 143
+1
+s140	0.0
+sentis	0.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 604
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 132
+1
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 97
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	1.0
+
+
+Cluster 627
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 601
+1
+s140	0.0
+sentis	0.0
+textblob	0.0
+vader	1.0
+
+
+Cluster 546
+1
+s140	1.0
+sentis	1.0
+textblob	0.0
+vader	0.0
+
+
+Cluster 672
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 669
+1
+s140	0.0
+sentis	-1.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 493
+1
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
+
+
+Cluster 598
+1
+s140	-1.0
+sentis	-1.0
+textblob	1.0
+vader	-1.0
+
+
+Cluster 407
+1
+s140	0.0
+sentis	-1.0
+textblob	0.0
+vader	1.0

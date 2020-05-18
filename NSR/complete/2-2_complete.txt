@@ -1,0 +1,32 @@
+
+
+Cluster 3
+14562
+s140	0.07354758961681088
+sentis	-0.15025408597720094
+textblob	0.34850982007965936
+vader	0.15705260266446916
+
+
+Cluster 4
+205
+s140	-0.36585365853658536
+sentis	-1.0
+textblob	0.07317073170731707
+vader	-1.0
+
+
+Cluster 1
+174
+s140	0.0
+sentis	0.0
+textblob	-1.0
+vader	-1.0
+
+
+Cluster 2
+136
+s140	0.0
+sentis	1.0
+textblob	1.0
+vader	1.0
