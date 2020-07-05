@@ -22,11 +22,11 @@ non_bmp_map=dict.fromkeys(range(0x10000, sys.maxunicode + 1), 0xfffd)
 
 
 #Creds
-api_key="HR9haCEI6wD7BerRxEmFXgFwB"
-api_seckey="od20ivDKcnTKUj9rBLIg7keG8nsHljCzegOGhvjUnZNYe3CHl7"
+api_key=""
+api_seckey=""
 
-acc_tok="1226930680455737345-0HEl0d9WRJ5FGzJoJRjvPgP1OQBpx5"
-acc_toksec="iWBz39204OBQSbA63BaA4VvE73fE8h7WpdvfI6lTD2ibc"
+acc_tok=""
+acc_toksec=""
 
 count=0
 over=0
